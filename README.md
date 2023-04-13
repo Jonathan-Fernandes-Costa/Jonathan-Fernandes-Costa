@@ -32,5 +32,5 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-<img src="/java-svgrepo-com.png" width="28"/>![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
+<img src="/javalogo.png" width="28"/>![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&labelColor=0D1117&textColor=0D1117)&nbsp;
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
